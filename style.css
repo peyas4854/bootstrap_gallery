@@ -1,0 +1,22 @@
+body{
+    background-color: #ecebe6;
+    width: 80%;
+    margin: 0 auto;
+     
+}
+.navbar{
+  padding: 10px;
+}
+.slider{
+  
+}
+ .panel-footer {
+   
+   text-align: center;
+}
+.button{
+    padding: 10px;
+}
+footer .well{
+    background-color: black;
+}
